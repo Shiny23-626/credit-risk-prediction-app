@@ -29,5 +29,5 @@ A machine learning powered Streamlit web application to predict credit risk (goo
 - `analysis.ipynb`
 
 ## 🚀 Run Locally
-Install dependencies:
+Install dependencies:https://credit-risk-prediction-app-ekdqbnbjxqqqjvs3wcse77.streamlit.app/
 
